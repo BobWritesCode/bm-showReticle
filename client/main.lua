@@ -47,3 +47,5 @@ CreateThread(function()
     Wait(1)
   end
 end)
+
+print("^4[Log] ^3bm-showReticle ^2started^7")
